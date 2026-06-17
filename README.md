@@ -109,6 +109,4 @@ Currently serving as CTO at TradeUp Group, leading engineering, DevOps, infrastr
 
 ## Connect
 
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
-* Location: São Paulo, Brazil
+* LinkedIn: https://www.linkedin.com/in/matheus-biagini-b6374378/
