@@ -1,7 +1,5 @@
 # Matheus Biagini
 
-<br>
-
 ![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/Technology-Innovation-blue?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-First-red?style=for-the-badge)
