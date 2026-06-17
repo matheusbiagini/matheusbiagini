@@ -4,7 +4,7 @@
 
 Technology executive with 21+ years of experience leading software engineering teams, digital transformation initiatives, and large-scale technology projects.
 
-Currently serving as CTO at TradeUp Group, leading engineering, DevOps, infrastructure, architecture, and product delivery teams. Experienced in building high-performance organizations, defining technology strategies, and driving business growth through scalable software solutions.
+Currently serving as CTO at good company, leading engineering, DevOps, infrastructure, architecture, and product delivery teams. Experienced in building high-performance organizations, defining technology strategies, and driving business growth through scalable software solutions.
 
 ## About Me
 
