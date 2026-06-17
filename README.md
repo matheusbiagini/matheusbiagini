@@ -1,5 +1,14 @@
 # Matheus Biagini
 
+<br>
+
+![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+![Technology](https://img.shields.io/badge/Technology-Innovation-blue?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-First-red?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Ready-orange?style=for-the-badge)
+
+<br>
+
 ### CTO | Software Engineering Leader | Software Architect
 
 Technology executive with 21+ years of experience leading software engineering teams, digital transformation initiatives, and large-scale technology projects.
